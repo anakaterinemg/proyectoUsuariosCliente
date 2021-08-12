@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:40151/ServiciesUser/ServiceRol?wsdl" uri="src/conf/xml-resources/web-service-references/ServiceRol/wsdl/localhost_40151/ServiciesUser/ServiceRol.wsdl"/>
+    <system systemId="http://localhost:40151/ServiciesUser/ServiceRol?xsd=1" uri="src/conf/xml-resources/web-service-references/ServiceRol/wsdl/localhost_40151/ServiciesUser/ServiceRol.xsd_1.xsd"/>
+    <system systemId="http://localhost:40151/ServiciesUser/ServiceUser?wsdl" uri="src/conf/xml-resources/web-service-references/ServiceUser/wsdl/localhost_40151/ServiciesUser/ServiceUser.wsdl"/>
+    <system systemId="http://localhost:40151/ServiciesUser/ServiceUser?xsd=1" uri="src/conf/xml-resources/web-service-references/ServiceUser/wsdl/localhost_40151/ServiciesUser/ServiceUser.xsd_1.xsd"/>
+</catalog>
